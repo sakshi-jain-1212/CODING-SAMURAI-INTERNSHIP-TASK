@@ -1,2 +1,2 @@
 # CODING-SAMURAI-INTERNSHIP-TASK
-Java Task Submission of Coding Samurai Internship
+Java Task of Coding Samurai Internship
